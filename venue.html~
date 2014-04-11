@@ -9,7 +9,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Workshop Program - M2MSec'14</title>
+    <title>Venue - M2MSec'14</title>
 
     <link rel='stylesheet' id='responsive-style-css'  href='css/style.css' type='text/css' media='all' />
   </head>
@@ -27,17 +27,16 @@
 	    <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="index.html">Overview</a></li>
 	    <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="call-for-papers.html">Call for Papers</a></li>
 	    <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="organizers.html">Organizers</a></li>
-	    <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="committee.html">Program Committee</a></li>
 	    <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="registration.html">Registration</a></li>
-	    <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="program.html">Workshop Program</a></li>
-	    <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="venue.html">Venue</a></li>
+	    <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="program.html">Workshop Program</a></li>
+	    <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="venue.html">Venue</a></li>
 	  </ul>
 	</div>
       </div><!-- end of #header -->
       
       <div id="wrapper" class="clearfix">
 	<div id="featured" class="grid col-940">
-	  <h1 class="featured-title" style="font-size:40px">Workshop Program</h1>
+	  <h1 class="featured-title" style="font-size:40px">Venue</h1>
 	  <p>To be announced</p>
 	  </div><!-- end of #featured -->
 	</div><!-- end of #wrapper -->
